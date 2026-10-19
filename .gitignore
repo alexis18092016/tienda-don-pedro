@@ -1,0 +1,6 @@
+# claves y datos privados : nunca se suben
+.env
+
+# Archivos que crea python solo
+__pycache__/
+.venv/
