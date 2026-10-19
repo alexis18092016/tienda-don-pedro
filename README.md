@@ -1,8 +1,26 @@
-# Tienda Don Pedro
+# 🛒 Tienda Don Pedro
 
-Tienda de barrio en Itagüí. Don Pedro quiere llevar el control de sus productos y de sus clientes.
+Proyecto de práctica con Git y GitHub.
+Muestra el inventario de la tienda y su valor total.
 
-## Archivos
+## Productos
+| Producto | Precio |
+|----------|--------|
+| Arroz 1kg | $4.500 |
 
-- `productos.txt`: productos y precios.
-- `clientes.txt`: clientes frecuentes.
+## Estructura
+```
+tienda-don-pedro/
+├── datos/
+├── src/
+├── .gitignore
+└── README.md
+```
+
+## Cómo ejecutarlo
+```
+python src/main.py
+```
+
+## Autor
+alexis18092016 - https://github.com/alexis18092016
